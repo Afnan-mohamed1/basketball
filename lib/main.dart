@@ -208,7 +208,7 @@ class _PointscounterState extends State<Pointscounter> {
                     TeamBPoint=0;
                   });
                 },
-                child: Text('Reset',
+                child: Text('reset :)',
                   style: TextStyle(fontSize: 22,
                     color:Colors.black,
                   ),
