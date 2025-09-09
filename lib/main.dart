@@ -209,7 +209,7 @@ class _PointscounterState extends State<Pointscounter> {
                   });
                 },
                 child: Text('reset :)',
-                  style: TextStyle(fontSize: 22,
+                  style: TextStyle(fontSize: 23,
                     color:Colors.black,
                   ),
                 ),
